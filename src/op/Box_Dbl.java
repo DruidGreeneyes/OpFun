@@ -11,7 +11,7 @@ public final class Box_Dbl {
     public static final ToDoubleBiFunction<Double, Double> subtract = (a,
             b) -> a
             - b;
-    public static final ToDoubleBiFunction<Double, Double> d_multiply = (a,
+    public static final ToDoubleBiFunction<Double, Double> multiply = (a,
             b) -> a * b;
     public static final ToDoubleBiFunction<Double, Double> divide = (a, b) -> a
             / b;
