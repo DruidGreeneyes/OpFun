@@ -1,4 +1,4 @@
-package op;
+package druid.utils.opfun;
 
 import java.util.function.BinaryOperator;
 
